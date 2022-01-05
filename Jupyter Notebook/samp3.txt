@@ -1,0 +1,13 @@
+1.23e11number
+1e+10another number
+-2e-100yet another number
+error characters follow ^ !
+"unterminated string
+two of them" now
+"ok string"
+badly formed numbers follow:
+1efgh
+55.xyz
+these are not
+1e1e1
+1234a

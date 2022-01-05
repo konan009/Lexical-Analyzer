@@ -1,0 +1,38 @@
+NUMBER	1.23e11
+IDENT	number
+NUMBER	1e+10
+IDENT	another
+IDENT	number
+MINUS	-
+NUMBER	2e-100
+IDENT	yet
+IDENT	another
+IDENT	number
+IDENT	error
+IDENT	characters
+IDENT	follow
+lexical error: illegal character
+lexical error: illegal character
+lecical error: unterminated string
+IDENT	two
+IDENT	of
+IDENT	them
+lecical error: unterminated string
+STRING	"ok string"
+IDENT	badly
+IDENT	formed
+IDENT	numbers
+IDENT	follow
+lexical error: illegal character
+lexical error: badly formed number
+IDENT	gh
+lexical error: badly formed number
+IDENT	yz
+IDENT	these
+IDENT	are
+IDENT	not
+NUMBER	1e1
+IDENT	e
+NUMBER	1
+NUMBER	1234
+IDENT	a

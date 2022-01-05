@@ -1,0 +1,16 @@
+NUMBER	2
+STRING	'kinds'
+IDENT	of
+STRING	"strings"
+PLUS	+
+MINUS	-
+MULT	*
+DIVIDE	/
+MODULO	%
+EXP	**
+LPAREN	(
+RPAREN	)
+COMMA	,
+SCOLON	;
+EQUALS	=
+

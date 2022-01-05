@@ -1,0 +1,9 @@
+// this program calculates the roots of a quadratic equation
+10**2 + (4*5.5*(-3)) =
+SAVE 1; # save the discriminant
+(-10 + SQRT(RECALL(1)))/(2*5.5) =
+PRINT;
+(-10 - SQRT(RECALL(1)))/(2*5.5) =
+PRINT;
+# end of the program
+
